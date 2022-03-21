@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Web Developer
+
+**About Me**
+
++ Study: Le Hoan High School
++ Favorite Languages: HTML, CSS, Javascript.
++ Interest: Guitar, Code, Game.
++ Learn Front-End.
