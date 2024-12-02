@@ -18,7 +18,7 @@ Web Developer
 
 **About Me**
 
-+ Study: Le Hoan High School
++ Study: Nguyen Tat Thanh University
 + Favorite Languages: HTML, CSS, Javascript.
 + Interest: Guitar, Code, Game.
 + Learn Front-End.
